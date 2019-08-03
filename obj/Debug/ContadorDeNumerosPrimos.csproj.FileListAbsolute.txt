@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\obj\Debug\ContadorDeNumerosPrimos.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\obj\Debug\ContadorDeNumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\bin\Debug\ContadorDeNumerosPrimos.exe.config
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\bin\Debug\ContadorDeNumerosPrimos.exe
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\bin\Debug\ContadorDeNumerosPrimos.pdb
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\obj\Debug\ContadorDeNumerosPrimos.exe
+C:\Users\DELL\source\repos\ContadorDeNumerosPrimos\obj\Debug\ContadorDeNumerosPrimos.pdb
